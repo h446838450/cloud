@@ -1,2 +1,3 @@
-配置：
-  信息：“主brabch，springcloud-config / config-dev.yml版本1”
+    
+config:
+  info:"master brabch,springcloud-config/config-dev.yml version-1"
